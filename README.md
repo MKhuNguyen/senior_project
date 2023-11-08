@@ -10,7 +10,7 @@
 > 
 > Matthew Nguyen
 
-Fork edit
+Fork copy of https://github.com/Ngo-Dylan/capstone_project
 
 > Matthew Nguyen under student email account yorushikuka visible pull requests for project:
 
